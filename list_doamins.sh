@@ -10,7 +10,6 @@
     echo -e "\033[34m\t\t#############################################
     \t\t##this script search for domains and subdomain ##
     \t\t##        as seen from a given website         ##
-    \t\t##           inspiration:list-urls.py          ##
     \t\t##                 author:plast1k              ##
     \t\t##+++++++++++++++++++++++++++++++++++++++++++++##
     \033[0m"
